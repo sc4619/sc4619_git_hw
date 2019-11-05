@@ -1,4 +1,9 @@
 This is a csv file for hw13
 
+<<<<<<< HEAD
 This is new changes made to the csv file on the master branch.
 We shall see the effects of working on both.
+=======
+Additional changes to be made here.
+This is in the csv file.
+>>>>>>> feature1
